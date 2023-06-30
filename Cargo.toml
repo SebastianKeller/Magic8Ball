@@ -2,6 +2,9 @@
 name = "magic8ball"
 version = "0.1.0"
 edition = "2021"
+description = "Can't decide on what to do? Don't worry, consult the magic 8 ball."
+license = "MIT"
+repository = "https://github.com/SebastianKeller/Magic8Ball"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
