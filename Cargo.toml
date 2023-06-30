@@ -1,6 +1,6 @@
 [package]
 name = "magic8ball"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Can't decide on what to do? Don't worry, consult the magic 8 ball."
 license = "MIT"
