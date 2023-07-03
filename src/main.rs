@@ -3,7 +3,7 @@ use std::{io::Write, time::Duration};
 use clap::{arg, command, Parser};
 use rand::Rng;
 
-const SIMPLE_ANSWERS: &'static [&'static str] = &["yes.", "no."];
+const SIMPLE_ANSWERS: &'static [&'static str] = &["Yes.", "No."];
 
 const OG_ANSWERS: &'static [&'static str] = &[
     // affirmitve
